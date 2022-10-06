@@ -18,9 +18,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### AWS Pipeline
-once we have the javacript create react application created and edited on the local machine, we then have to push the application into AWS using the git commands. 
-
-Have the files pushd loccally from your machine into the repository created in AWS and then proceed to create pipline which is the main aim for this project.
+once we have the javacript create react application created and edited on the local machine, we then have to push the application into AWS using the git commands and then proceed to create piplines which is the main aim for this project.
 
 
 
