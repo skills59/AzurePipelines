@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
         This is just a simple React JS application demo for an 
-          Azure Pipeline project Contineous Integration and Deployment CI/CD
+          AWS Pipeline project Contineous Integration and Deployment CI/CD
         </h1>
         <p>By Olatunde Ajibayo Ewuola</p>
       </header>
